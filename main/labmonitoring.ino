@@ -46,13 +46,13 @@ float temperature;
 void humiditySensor();
 
 /* Put everything about WiFi down here */
-#define SSID      "Rizal"
-#define PASSWORD  "hamburg123"
+#define SSID      "ssid"
+#define PASSWORD  "pass"
 
 /* Put everything about Thinger down here */
-#define USERNAME  "razzaz"
-#define DEVICE_ID "NodeMCUESP8266"
-#define DEVICE_CREDENTIAL "w1A2t$RhZg#z"
+#define USERNAME  "username"
+#define DEVICE_ID "deviceid"
+#define DEVICE_CREDENTIAL "authtoken"
 ThingerSmartConfig thing(USERNAME, DEVICE_ID, DEVICE_CREDENTIAL);
 
 void setup() {
