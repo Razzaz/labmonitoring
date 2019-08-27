@@ -1,4 +1,4 @@
-# Labmonitoring system
+# Laboratory monitoring system
 
 ### System Specification
 - Hardware
@@ -8,7 +8,8 @@
   - MQ135
   
 - IoT Platform
-  - ![thinger.io](https://thinger.io/)
+  - [thinger.io](https://thinger.io/)
+  - [IFTTT](https://ifttt.com/)
 
 ### System Features
 - Light intensity measurement
