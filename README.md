@@ -20,7 +20,7 @@ Project preview : [Go to dashboard](https://console.thinger.io/#/dashboard/labmo
 - Temperature and humidity measurement
 - Air quality measurement
 - Realtime data collecting
-- Based on IoT (integrating with notification alert for dangerous condition)
+- Based on IoT (integrating with notification alert for unwanted/dangerous condition)
 
 ## Hardware Interfacing
 **Schematic will be uploaded here**
@@ -45,3 +45,13 @@ Project preview : [Go to dashboard](https://console.thinger.io/#/dashboard/labmo
 | GND                            | GND                                   |
 | DATA                           | D8                                    |
 | NC                             | (Not used)                            |
+
+## Documentation
+- [Thinger](http://docs.thinger.io/arduino/)
+- [IFTTT](https://platform.ifttt.com/docs)
+- [BH1750](https://github.com/Erriez/ErriezBH1750/blob/master/README.md)
+- [DHT11](https://github.com/adafruit/DHT-sensor-library)
+- [MQ135](https://github.com/GeorgK/MQ135)
+
+## Library Dependencies
+- Built-in ```Wire.h```
