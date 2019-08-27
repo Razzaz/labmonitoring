@@ -1,6 +1,9 @@
 # Laboratory monitoring system
+```
+This project  is under heavy development, experimental, unversioned and not stable yet.
+```
 
-### System Specification
+## System Specification
 - Hardware
   - NodeMCU 1.0 ESP8266
   - BH1750
@@ -11,7 +14,7 @@
   - [thinger.io](https://thinger.io/)
   - [IFTTT](https://ifttt.com/)
 
-### System Features
+## System Features
 - Light intensity measurement
 - Temperature and humidity measurement
 - Air quality measurement
