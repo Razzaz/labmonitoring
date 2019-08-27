@@ -2,7 +2,7 @@
 ```
 This project  is under heavy development, experimental, unversioned and not stable yet.
 ```
-Project preview : 
+Project preview : [Go to dashboard](https://console.thinger.io/#/dashboard/labmonitoringDashboard?authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJEYXNoYm9hcmRfbGFibW9uaXRvcmluZ0Rhc2hib2FyZCIsInVzciI6InJhenpheiJ9.PXVjeoinGa1Vy7QXDAfhlfTAjLj-42ZbjM2urWpYKE8)
 
 ## System Specification
 - Hardware
