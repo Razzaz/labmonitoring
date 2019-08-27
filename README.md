@@ -1,4 +1,6 @@
 # Laboratory monitoring system
+![Build Status](https://travis-ci.org/Razzaz/labmonitoring.svg?branch=master)
+
 ```
 This project  is under heavy development, experimental, unversioned and not stable yet.
 ```
