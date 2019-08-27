@@ -7,6 +7,8 @@ This project  is under heavy development, experimental, unversioned and not stab
 ```
 Project preview : [Go to dashboard](https://console.thinger.io/#/dashboard/labmonitoringDashboard?authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJEYXNoYm9hcmRfbGFibW9uaXRvcmluZ0Rhc2hib2FyZCIsInVzciI6InJhenpheiJ9.PXVjeoinGa1Vy7QXDAfhlfTAjLj-42ZbjM2urWpYKE8)
 
+![Dashboard Preview](https://github.com/Razzaz/labmonitoring/blob/master/src/dashboard.png)
+
 ## System Specification
 - Hardware
   - NodeMCU 1.0 ESP8266
