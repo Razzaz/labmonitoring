@@ -46,6 +46,24 @@ Project preview : [Go to dashboard](https://console.thinger.io/#/dashboard/labmo
 | DATA                           | D8                                    |
 | NC                             | (Not used)                            |
 
+## Initialization
+```
+Arduino IDE v1.8.9
+
+Click 'tools' and do configuration below
+Board         : NodeMCU 1.0  (ESP-12E Module)
+Upload Speed  : 115200
+CPU Frequency : 80 Mhz
+Flash Size    : 4M (1M SPIFFS)
+Debug port    : Disabled
+Debug Level   : None
+IwIP Variant  : v2 Lower Memory
+Erase Flash   : Only Skecth
+Port          : Check on 'Device Manager'
+Programmer    : AVRISP mkll
+```
+
+
 ## Documentation
 - [Thinger](http://docs.thinger.io/arduino/)
 - [IFTTT](https://platform.ifttt.com/docs)
