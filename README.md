@@ -1,5 +1,6 @@
 # Laboratory monitoring system
 ![Build Status](https://travis-ci.org/Razzaz/labmonitoring.svg?branch=master)
+[![Documentation Status](https://readthedocs.org/projects/labmonitoring/badge/?version=latest)](https://labmonitoring.readthedocs.io/en/latest/?badge=latest)
 
 ```
 This project  is under heavy development, experimental, unversioned and not stable yet.
