@@ -1,4 +1,5 @@
-# Laboratory monitoring system ![License: MIT](https://img.shields.io/badge/digital-laboratory-green)
+# Laboratory monitoring system 
+![lab: digital](https://img.shields.io/badge/digital-laboratory-green)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Build Status](https://travis-ci.org/Razzaz/labmonitoring.svg?branch=master)
 [![Documentation Status](https://readthedocs.org/projects/labmonitoring/badge/?version=latest)](https://labmonitoring.readthedocs.io/en/latest/?badge=latest)
