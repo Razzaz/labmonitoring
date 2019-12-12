@@ -67,7 +67,7 @@ void setup() {
   // no need setup
 
   /* humiditySensor */
-  // no need setup
+  dht.begin();
 
   
   WiFi.begin(SSID, PASSWORD);
